@@ -1,0 +1,2 @@
+INSERT INTO news_channel (name,link,title) VALUES ('Channel 1','http://channel1.link','Channel1 Title');
+INSERT INTO news_channel (name,link,title) VALUES ('Channel 2','http://channel2.link','Channel2 Title');

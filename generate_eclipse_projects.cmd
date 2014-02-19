@@ -1,0 +1,2 @@
+call buildr eclipse
+pause
